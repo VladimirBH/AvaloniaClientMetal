@@ -6,4 +6,5 @@ public class TokenPair
     public string RefreshToken { set; get; }
     public int ExpiredInAccessToken { set; get; }
     public int ExpiredInRefreshToken { set; get; }
+    public int IdRole { set; get; }
 }
