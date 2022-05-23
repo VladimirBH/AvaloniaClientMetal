@@ -2,7 +2,7 @@ using System;
 
 namespace AvaloniaClientMetal.Models;
 
-public class User
+public class User : BaseEntity
 {
     public string Name { get; set; }
     
@@ -19,5 +19,6 @@ public class User
     public int RoleId { get; set; }
     
     public virtual Role? Role { get; set; }
+    
 
 }

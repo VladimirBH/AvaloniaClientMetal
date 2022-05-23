@@ -8,6 +8,7 @@
         <entry key="AvaloniaClientMetal/MainWindow.axaml" value="AvaloniaClientMetal/AvaloniaClientMetal.csproj" />
         <entry key="AvaloniaClientMetal/SplashScreen.axaml" value="AvaloniaClientMetal/AvaloniaClientMetal.csproj" />
         <entry key="AvaloniaClientMetal/Styles/LightStyle.axaml" value="AvaloniaClientMetal/AvaloniaClientMetal.csproj" />
+        <entry key="AvaloniaClientMetal/UsersWindow.axaml" value="AvaloniaClientMetal/AvaloniaClientMetal.csproj" />
       </map>
     </option>
   </component>
